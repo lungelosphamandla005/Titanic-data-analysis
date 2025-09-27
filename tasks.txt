@@ -1,0 +1,5 @@
+admin,Register Users with task_manager.py,Use task_manager.py to add the usernames and passwords for all team members that will be using this program.,2019-10-10,2019-10-20,No
+admin,Assign initial tasks,Use task_manager.py to assign each team member with appropriate tasks,2019-10-10,2019-10-25,No
+lungelo,school work,homework,2025-06-21,2024-02-02,No
+lungelo,grc,power bi report,2025-06-22,2025-07-01,No
+admin,catch up,data science,2025-07-01,2025-07-08,No
