@@ -24,10 +24,3 @@ a structured exploratory data analysis (EDA) and data preparation notebook. The 
 
 ---
 
-## 3) Environment
-
-python -m venv .venv
-# Windows: .venv\Scripts\activate
-# macOS/Linux: source .venv/bin/activate
-pip install pandas numpy matplotlib seaborn scikit-learn missingno scipy mlxtend jupyter
-jupyter notebook
